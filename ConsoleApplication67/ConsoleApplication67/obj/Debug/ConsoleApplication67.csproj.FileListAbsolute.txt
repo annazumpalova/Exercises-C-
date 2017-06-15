@@ -1,0 +1,6 @@
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication67\ConsoleApplication67\bin\Debug\ConsoleApplication67.exe.config
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication67\ConsoleApplication67\bin\Debug\ConsoleApplication67.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication67\ConsoleApplication67\bin\Debug\ConsoleApplication67.pdb
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication67\ConsoleApplication67\obj\Debug\ConsoleApplication67.csprojResolveAssemblyReference.cache
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication67\ConsoleApplication67\obj\Debug\ConsoleApplication67.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication67\ConsoleApplication67\obj\Debug\ConsoleApplication67.pdb

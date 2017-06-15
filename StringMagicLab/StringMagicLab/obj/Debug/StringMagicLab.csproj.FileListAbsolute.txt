@@ -1,0 +1,6 @@
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\StringMagicLab\StringMagicLab\bin\Debug\StringMagicLab.exe.config
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\StringMagicLab\StringMagicLab\bin\Debug\StringMagicLab.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\StringMagicLab\StringMagicLab\bin\Debug\StringMagicLab.pdb
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\StringMagicLab\StringMagicLab\obj\Debug\StringMagicLab.csprojResolveAssemblyReference.cache
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\StringMagicLab\StringMagicLab\obj\Debug\StringMagicLab.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\StringMagicLab\StringMagicLab\obj\Debug\StringMagicLab.pdb

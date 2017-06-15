@@ -1,0 +1,6 @@
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication69\ConsoleApplication69\bin\Debug\ConsoleApplication69.exe.config
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication69\ConsoleApplication69\bin\Debug\ConsoleApplication69.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication69\ConsoleApplication69\bin\Debug\ConsoleApplication69.pdb
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication69\ConsoleApplication69\obj\Debug\IntersectionOf.csprojResolveAssemblyReference.cache
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication69\ConsoleApplication69\obj\Debug\ConsoleApplication69.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication69\ConsoleApplication69\obj\Debug\ConsoleApplication69.pdb

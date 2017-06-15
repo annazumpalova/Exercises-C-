@@ -1,0 +1,6 @@
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\arraylab\SinoTheWacker\bin\Release\SinoTheWacker.exe.config
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\arraylab\SinoTheWacker\bin\Release\SinoTheWacker.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\arraylab\SinoTheWacker\bin\Release\SinoTheWacker.pdb
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\arraylab\SinoTheWacker\obj\Release\SinoTheWacker.csprojResolveAssemblyReference.cache
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\arraylab\SinoTheWacker\obj\Release\SinoTheWacker.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\arraylab\SinoTheWacker\obj\Release\SinoTheWacker.pdb

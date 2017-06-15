@@ -1,0 +1,6 @@
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\LIstLabDemo\LIstLabDemo\bin\Debug\LIstLabDemo.exe.config
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\LIstLabDemo\LIstLabDemo\bin\Debug\LIstLabDemo.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\LIstLabDemo\LIstLabDemo\bin\Debug\LIstLabDemo.pdb
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\LIstLabDemo\LIstLabDemo\obj\Debug\LIstLabDemo.csprojResolveAssemblyReference.cache
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\LIstLabDemo\LIstLabDemo\obj\Debug\LIstLabDemo.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\LIstLabDemo\LIstLabDemo\obj\Debug\LIstLabDemo.pdb

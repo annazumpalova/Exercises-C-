@@ -1,0 +1,5 @@
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication54\ConsoleApplication54\bin\Debug\ConsoleApplication54.exe.config
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication54\ConsoleApplication54\bin\Debug\ConsoleApplication54.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication54\ConsoleApplication54\bin\Debug\ConsoleApplication54.pdb
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication54\ConsoleApplication54\obj\Debug\ConsoleApplication54.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication54\ConsoleApplication54\obj\Debug\ConsoleApplication54.pdb

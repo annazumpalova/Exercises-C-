@@ -1,0 +1,6 @@
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\rectangleProperties\rectangleProperties\bin\Debug\rectangleProperties.exe.config
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\rectangleProperties\rectangleProperties\bin\Debug\rectangleProperties.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\rectangleProperties\rectangleProperties\bin\Debug\rectangleProperties.pdb
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\rectangleProperties\rectangleProperties\obj\Debug\rectangleProperties.csprojResolveAssemblyReference.cache
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\rectangleProperties\rectangleProperties\obj\Debug\rectangleProperties.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\rectangleProperties\rectangleProperties\obj\Debug\rectangleProperties.pdb

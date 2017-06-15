@@ -1,0 +1,6 @@
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\arraylab\LogsAggregator\bin\Release\LogsAggregator.exe.config
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\arraylab\LogsAggregator\bin\Release\LogsAggregator.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\arraylab\LogsAggregator\bin\Release\LogsAggregator.pdb
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\arraylab\LogsAggregator\obj\Release\LogsAggregator.csprojResolveAssemblyReference.cache
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\arraylab\LogsAggregator\obj\Release\LogsAggregator.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\arraylab\LogsAggregator\obj\Release\LogsAggregator.pdb

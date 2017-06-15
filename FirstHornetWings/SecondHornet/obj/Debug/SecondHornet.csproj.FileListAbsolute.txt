@@ -1,0 +1,6 @@
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\FirstHornetWings\SecondHornet\bin\Debug\SecondHornet.exe.config
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\FirstHornetWings\SecondHornet\bin\Debug\SecondHornet.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\FirstHornetWings\SecondHornet\bin\Debug\SecondHornet.pdb
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\FirstHornetWings\SecondHornet\obj\Debug\SecondHornet.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\FirstHornetWings\SecondHornet\obj\Debug\SecondHornet.pdb
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\FirstHornetWings\SecondHornet\obj\Debug\SecondHornet.csprojResolveAssemblyReference.cache

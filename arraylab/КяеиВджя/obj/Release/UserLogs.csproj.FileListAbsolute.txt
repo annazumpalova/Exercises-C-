@@ -1,0 +1,6 @@
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\arraylab\КяеиВджя\bin\Release\КяеиВджя.exe.config
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\arraylab\КяеиВджя\bin\Release\КяеиВджя.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\arraylab\КяеиВджя\bin\Release\КяеиВджя.pdb
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\arraylab\КяеиВджя\obj\Release\UserLogs.csprojResolveAssemblyReference.cache
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\arraylab\КяеиВджя\obj\Release\КяеиВджя.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\arraylab\КяеиВджя\obj\Release\КяеиВджя.pdb

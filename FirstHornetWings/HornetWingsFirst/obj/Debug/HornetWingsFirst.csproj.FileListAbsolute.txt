@@ -1,0 +1,5 @@
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\FirstHornetWings\HornetWingsFirst\bin\Debug\HornetWingsFirst.exe.config
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\FirstHornetWings\HornetWingsFirst\bin\Debug\HornetWingsFirst.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\FirstHornetWings\HornetWingsFirst\bin\Debug\HornetWingsFirst.pdb
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\FirstHornetWings\HornetWingsFirst\obj\Debug\HornetWingsFirst.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\FirstHornetWings\HornetWingsFirst\obj\Debug\HornetWingsFirst.pdb

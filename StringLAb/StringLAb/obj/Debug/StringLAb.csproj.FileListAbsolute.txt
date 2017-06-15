@@ -1,0 +1,6 @@
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\StringLAb\StringLAb\bin\Debug\StringLAb.exe.config
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\StringLAb\StringLAb\bin\Debug\StringLAb.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\StringLAb\StringLAb\bin\Debug\StringLAb.pdb
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\StringLAb\StringLAb\obj\Debug\StringLAb.csprojResolveAssemblyReference.cache
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\StringLAb\StringLAb\obj\Debug\StringLAb.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\StringLAb\StringLAb\obj\Debug\StringLAb.pdb

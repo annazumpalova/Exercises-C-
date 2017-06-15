@@ -1,0 +1,6 @@
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ArraysLab\ArraysLab\bin\Debug\ArraysLab.exe.config
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ArraysLab\ArraysLab\bin\Debug\ArraysLab.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ArraysLab\ArraysLab\bin\Debug\ArraysLab.pdb
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ArraysLab\ArraysLab\obj\Debug\ArraysLab.csprojResolveAssemblyReference.cache
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ArraysLab\ArraysLab\obj\Debug\ArraysLab.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ArraysLab\ArraysLab\obj\Debug\ArraysLab.pdb

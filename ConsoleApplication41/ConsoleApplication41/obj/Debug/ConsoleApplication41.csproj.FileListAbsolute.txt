@@ -1,0 +1,6 @@
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication41\ConsoleApplication41\bin\Debug\ConsoleApplication41.exe.config
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication41\ConsoleApplication41\bin\Debug\ConsoleApplication41.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication41\ConsoleApplication41\bin\Debug\ConsoleApplication41.pdb
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication41\ConsoleApplication41\obj\Debug\ConsoleApplication41.csprojResolveAssemblyReference.cache
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication41\ConsoleApplication41\obj\Debug\ConsoleApplication41.exe
+C:\Users\PC20092016\Documents\Visual Studio 2015\Projects\ConsoleApplication41\ConsoleApplication41\obj\Debug\ConsoleApplication41.pdb
